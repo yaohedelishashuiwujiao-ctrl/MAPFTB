@@ -1,0 +1,34 @@
+# Personal documents
+简历_投递版_Dayweave.pdf
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# JavaScript
+node_modules/
+dist/
+coverage/
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+
+# Runtime data
+data/
+logs/
+*.log
+
