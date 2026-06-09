@@ -49,6 +49,7 @@ FastAPI API
 
 - [项目总体方案](PROJECT_PLAN.md)
 - [后端基础架构与学习指南](docs/BACKEND_FOUNDATION.md)
+- [后端基础实践教程](docs/BACKEND_PRACTICAL_TUTORIAL.md)
 
 ## 开发原则
 
@@ -70,4 +71,3 @@ FastAPI 创建任务
 -> PostgreSQL 更新最终状态
 -> API 查询任务结果
 ```
-
